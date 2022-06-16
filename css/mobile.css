@@ -1,0 +1,8 @@
+.container {
+  grid-template-columns: repeat(autofill, 1fr);
+  width: 100px;
+}
+
+.item:nth-of-type(1) {
+  
+}
